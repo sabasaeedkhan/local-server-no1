@@ -1,0 +1,110 @@
+.body {
+  background-image: url('https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F27bce45b-4c17-4550-9189-efccf764913b.jpg?crop=5000%2C3333%2C0%2C0');
+  background-size: cover;
+  background-color: rgb(0, 187, 255);
+  color: white;
+  font-size: xx-large;
+  border-radius: 10px 15px;
+  border-color: white;
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.form {
+  background-color: rgb(34, 204, 242);
+  padding: 20px;
+  border-radius: 50px;
+border-style:double ;
+border-color: black;
+  width: 300px;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+input,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+  font-size: xx-large;
+}
+
+input[type="text"] {
+  background-color: #73e2ec;
+  color: black;
+  cursor: pointer;
+  border-style: double;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+
+input[type="text"]:hover {
+  background-color: #f6f6f6;
+}
+
+.h1 {
+  color: black;
+}
+
+div{
+background: rgba(246, 239, 239, 0.83);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+padding: 3rem;
+}
+
+.button {
+  font-size: xx-large;
+  font-weight: 100;
+  background-color: rgb(237, 238, 242);
+  border-radius: 30px;
+  border-color: blue;
+  border-style: double;
+  padding: 1rem;
+  
+}
+.h3{
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
